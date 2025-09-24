@@ -490,13 +490,3 @@ Twinax
 Good (shielded)
 Data centers
 
-
-12. Tips for Beginners
-
-Learn Wiring: Practice crimping RJ-45 for straight-through/crossover cables.
-Use Testers: Check cables with testers to avoid wiring mistakes.
-Follow Standards: Stick to T568B for consistency.
-Safety First: Use plenum cables in ceilings; be careful with fiber.
-Study More: Look up TIA/EIA-568 standards or take a networking course (e.g., CompTIA Network+).
-
-This chapter gives you the basics to understand and work with network cables and connectors. For real-world setups, hire certified installers for complex projects and always check local fire codes.
