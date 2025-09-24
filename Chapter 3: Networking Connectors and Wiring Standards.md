@@ -1,7 +1,11 @@
 ***Chapter 3: Networking Connectors and Wiring Standards***
+
 This chapter explains the cables, connectors, and wiring standards used to build computer networks. Whether you're setting up a home Wi-Fi or a large office network, understanding physical media (cables) and how they're connected is key. Even wireless networks need wired backbones to work. We'll cover the main types of cables, their properties, how to connect them, and the equipment used to organize them.
+
 ---
+
 ***1. Introduction to Physical Media***
+
 Networks rely on physical media to carry data signals. These can be cables (like copper or fiber) or even the air for wireless signals. Most local networks (LANs) use cables, while wireless networks connect to wired backbones (like fiber to Wi-Fi routers). The main cable types are:
 
 Coaxial: Thick cables used for cable TV or old networks.
@@ -10,8 +14,11 @@ Fiber-Optic: High-speed cables for long distances or data centers.
 Twinaxial: For short, fast connections in data centers.
 
 Each cable has unique features that make it best for specific uses, like speed or distance.
+
 ---
+
 ***2. Cable Properties***
+
 Cables differ in five key properties: speed, distance, duplex, noise immunity, and frequency. These determine which cable to use for a network.
 2.1 Transmission Speeds
 
@@ -64,8 +71,11 @@ Fiber: Terahertz (100 Gbps+).
 
 
 Why It Matters: Higher frequency cables have more twists or better materials for faster speeds.
+
 ---
+
 ***3. Coaxial Cable***
+
 3.1 What Is It?
 A thick cable with a copper core, a shield (to block EMI), and a plastic jacket. Used in old networks and modern cable TV or internet.
 3.2 Types
@@ -94,8 +104,11 @@ Today: Cable TV, broadband, security cameras.
 
 Pros: Good EMI resistance, longer range than early twisted-pair.
 Cons: Bulky, hard to install, mostly obsolete for LANs.
+
 ---
+
 ***4. Twisted-Pair Cable***
+
 4.1 What Is It?
 Copper wires twisted in pairs (4 pairs, 8 wires) to reduce interference (crosstalk and EMI). Most common for home and office networks.
 4.2 Types
@@ -217,8 +230,11 @@ Don’t stretch cables (reduces twists, lowers speed).
 Use all 4 pairs for Gigabit+.
 Match category (e.g., Cat 6 cable, jacks, panels).
 Test with cable testers for wiring and crosstalk.
+
 ---
+
 ***5. Fiber-Optic Cable***
+
 5.1 What Is It?
 Transmits data as light through a glass or plastic core. Immune to EMI, used for high-speed or long-distance networks.
 5.2 Structure
@@ -296,8 +312,11 @@ Clean connectors to prevent signal loss.
 Use OTDR testers for loss or breaks.
 Use plenum-rated cables in air spaces.
 Never look into live fiber (laser risk).
+
 ---
+
 ***6. Wiring Standards***
+
 6.1 Why Standards?
 Ensure consistent wiring to avoid errors and support high speeds. Define how wires connect to RJ-45 pins.
 6.2 T568A vs. T568B
@@ -387,6 +406,7 @@ Connects to routers or CSU/DSU.
 ---
 
 ***8. Serial Cables and Legacy Connectors***
+
 8.1 What Are They?
 Serial cables send one bit at a time (unlike parallel cables for old printers).
 8.2 Types
@@ -432,8 +452,11 @@ Fiber: Don’t look into live cables (laser danger).
 
 Labeling: Mark cables/ports for easy fixes.
 Certification: Use tools like Fluke to verify performance.
+
 ---
+
 ***10. Applications and Future Trends***
+
 10.1 Applications
 
 Coaxial: Cable TV, broadband (RG-6/59).
@@ -452,7 +475,9 @@ Wireless: More wired backbones (fiber) for 5G/6G.
 Copper (Twisted-Pair/Twinax): For short runs (<100m), low cost.
 Fiber: For long distances, high speeds, or secure/noisy areas.
 Coaxial: For specific uses like broadband.
+
 ---
+
 ***11. Quick Reference Table***
 
 
